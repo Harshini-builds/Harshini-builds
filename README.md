@@ -4,7 +4,9 @@ Full Stack Java Developer — Core Java • Advanced Java • Oracle SQL • HTM
 [Open to Work ]| Java Developer Intern / Entry-Level Software Developer
 
 🔭 Current project: Java Full Stack Web App (Authentication + CRUD + MySQL/Oracle integration)
+
 ✅ Practicing clean code, Git & GitHub workflows, and basic testing concepts
+
 🌱 Learning: Spring basics, REST APIs, system design fundamentals
 
 🌐 Portfolio: • 📫 harshinionteddu2728@gmail.com
