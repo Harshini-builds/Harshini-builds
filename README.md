@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi, I'm Harshini 👋
+Full Stack Java Developer (Student) — Core Java • Advanced Java • Oracle SQL • HTML • CSS • JavaScript
 
-<!--
-**Harshini-builds/Harshini-builds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Current project: Java Full Stack Web App (Authentication + CRUD + MySQL/Oracle integration)
+✅ Practicing clean code, Git & GitHub workflows, and basic testing concepts
+🌱 Learning: Spring basics, REST APIs, system design fundamentals
+🌐 Portfolio: • 📫 harshinionteddu2728@gmail.com
 
-Here are some ideas to get you started:
+Tech :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frontend (HTML • CSS • JavaScript) • Database (Oracle SQL) • Backend (Core Java • Advanced Java) • Git • GitHub
+
+Projects :
+Electricity Billing Management System - Java, Oracle SQL (JDBC) and Frontend (HTML, CSS, JavaScript) with OOP-based modular design
+Student Management System – Java + SQL + CRUD operations
+Login/Register System – Java + Database Authentication
+Basic Web Pages – HTML + CSS + JavaScript practice projects
