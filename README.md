@@ -18,6 +18,9 @@ Frontend (HTML • CSS • JavaScript) • Database (Oracle SQL) • Backend (Co
 Projects :
 
 Electricity Billing Management System - Java, Oracle SQL (JDBC) and Frontend (HTML, CSS, JavaScript) with OOP-based modular design
+
 Student Management System – Java + SQL + CRUD operations
+
 Login/Register System – Java + Database Authentication
+
 Basic Web Pages – HTML + CSS + JavaScript practice projects
