@@ -1,6 +1,6 @@
 Hi, I'm Harshini 👋
-Full Stack Java Developer (Student) — Core Java • Advanced Java • Oracle SQL • HTML • CSS • JavaScript
-
+Full Stack Java Developer — Core Java • Advanced Java • Oracle SQL • HTML • CSS • JavaScript
+[Open to Work ]| Java Developer Intern / Entry-Level Software Developer
 🔭 Current project: Java Full Stack Web App (Authentication + CRUD + MySQL/Oracle integration)
 ✅ Practicing clean code, Git & GitHub workflows, and basic testing concepts
 🌱 Learning: Spring basics, REST APIs, system design fundamentals
