@@ -9,11 +9,11 @@ Full Stack Java Developer — Core Java • Advanced Java • Oracle SQL • HTM
 
 🌱 Learning: Spring basics, REST APIs, system design fundamentals
 
-🌐 Portfolio: • 📫 harshinionteddu2728@gmail.com
+Mail-Id: • 📫 harshinionteddu2728@gmail.com
 
 Tech :
 
-Frontend (HTML • CSS • JavaScript) • Database (Oracle SQL) • Backend (Core Java • Advanced Java) • Git • GitHub
+Frontend (HTML • CSS ) • Database (Oracle SQL) • Backend (Core Java • Advanced Java) • Spring Boot •Spring MVC• Git • GitHub
 
 Projects :
 
