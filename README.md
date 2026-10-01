@@ -13,7 +13,7 @@ Mail-Id: • 📫 harshinionteddu2728@gmail.com
 
 Tech :
 
-Frontend (HTML • CSS ) • Database (Oracle SQL) • Backend (Core Java • Advanced Java) • Spring Boot •Spring MVC• Git • GitHub
+Frontend (HTML • CSS •BootStrap) • Database (Oracle SQL) • Backend (Core Java • Advanced Java) • Spring Boot •Spring MVC• Git • GitHub • Postman • AWS(Basics)
 
 Projects :
 
