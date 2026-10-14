@@ -7,7 +7,7 @@ Full Stack Java Developer — Core Java • Advanced Java • Oracle SQL • HTM
 
 ✅ Practicing clean code, Git & GitHub workflows, and basic testing concepts
 
-🌱 Learning: Spring basics, REST APIs, system design fundamentals
+🌱 Learning: Spring basics, REST APIs
 
 Mail-Id: • 📫 harshinionteddu2728@gmail.com
 
@@ -23,4 +23,4 @@ Student Management System – Java + SQL + CRUD operations
 
 Login/Register System – Java + Database Authentication
 
-Basic Web Pages – HTML + CSS + JavaScript practice projects
+Basic Web Pages – HTML + CSS 
